@@ -1,0 +1,32 @@
+.anima-usuario {
+  position: relative;
+  text-align: center;
+  height: 600px;
+  background-color: #f7f8ff;
+}
+.anima-usuario h1 {
+  font-size: 48px;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-left: 100px;
+}
+.anima-usuario h1 a {
+  text-decoration: none;
+}
+.anima-usuario .imagen-404 {
+  height: 100%;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.video-publicidad {
+  width: 100%;
+}
+
+/*# sourceMappingURL=output.css.map */

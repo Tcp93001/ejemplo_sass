@@ -1,0 +1,26 @@
+.anima-usuario {
+  position: relative;
+  text-align: center;
+  height: 600px;
+  background-color: rgb(247, 248, 255);
+
+  & h1 {
+    font-size: 48px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 100px;
+
+    & a {
+      text-decoration: none;
+    }
+  }
+
+  & .imagen-404 {
+    height: 100%;
+    padding-top: 100px;
+
+  }
+}
+
